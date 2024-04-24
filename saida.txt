@@ -1,0 +1,1 @@
+ Este texto sera escrito em 'saida.txt'.

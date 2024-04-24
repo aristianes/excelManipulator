@@ -1,0 +1,1 @@
+Este é um erro que será escrito em 'erros.txt'.
